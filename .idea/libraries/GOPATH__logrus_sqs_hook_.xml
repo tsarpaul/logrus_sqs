@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;logrus-sqs-hook&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../gitAPI" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../logrus-sqs-hook" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../gitAPI" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../logrus-sqs-hook" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
