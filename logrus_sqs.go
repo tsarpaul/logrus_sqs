@@ -1,12 +1,13 @@
 package logrus_sqs
 
 import (
-	"fmt"
 	"encoding/json"
-	"github.com/Sirupsen/logrus"
+	"fmt"
+
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/sqs"
+	"github.com/sirupsen/logrus"
 )
 
 type SQSHook struct {
