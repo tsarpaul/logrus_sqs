@@ -2,7 +2,8 @@ package logrus_sqs
 
 import (
 	"testing"
-	log "github.com/Sirupsen/logrus"
+
+	log "github.com/sirupsen/logrus"
 )
 
 func TestSQSHook_Fire(t *testing.T) {
